@@ -21,11 +21,11 @@
     "coveralls": "2.x.x",
     "mocha-lcov-reporter": "0.x.x",
     "node-dependencies": "0.x.x",
-    "hapi": "7.x.x",
+    "hapi": "8.x.x",
     "catbox-memory": "1.x.x"
   },
   "peerDependencies": {
-    "hapi": "7.x.x"
+    "hapi": "8.x.x"
   },
   "keywords": [
     "hapi",
